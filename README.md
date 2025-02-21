@@ -1,6 +1,6 @@
 # Gift Code Automation Script Guide
 
-This guide will help you run a script to automatically redeem gift codes for multiple player IDs.
+This guide will help you run a script to automatically redeem gift codes for alliance members or friends (multiple player IDs).
 
 ## Opening Chrome Console
 
